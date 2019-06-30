@@ -5,4 +5,4 @@ This Repository holds the pcap used for generating the dataset used in my paper:
 
 It also contains the extracted dataset n .csv format and Snort IDS rules that can be used to detect the attacks
 
-USING THIS PCAP FILE REQUIRES THAT YOU CITE THE ABOVE PAPER
+USING THIS PCAP/CSV FILE REQUIRES THAT YOU CITE THE ABOVE PAPER
